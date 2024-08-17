@@ -4,4 +4,4 @@
 
 # [One Color](https://www.xfce-look.org/p/1148918)
 
-# [Numix GTK](https://github.com/numixproject/numix-gtk-theme)
+# [Qogir GTK theme](https://www.xfce-look.org/p/1230631)
